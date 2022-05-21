@@ -1,2 +1,4 @@
 # Ignore text files
 *.txt
+# ignore extra_files folder
+extra files/
