@@ -17,8 +17,6 @@ plt.bar(x_axis, y_axis, color='green')
 plt.xlabel('Top 5 States')
 plt.ylabel('Populaion')
 plt.title('Projected State Population by 2040')
-# current_values = plt.gca().get_yticks()
-# plt.gca().set_yticklabels(['{:.0f}'.format(x) for x in current_values])
 plt.show()
 
 
