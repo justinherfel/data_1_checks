@@ -3,6 +3,7 @@
 ## Author's Notes
 
 * Included .gitignore, omitting the *extra_files* folder located in author's local repo.
+* added *assets* folder.
 
 ## Data Check 2
 
