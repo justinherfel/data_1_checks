@@ -15,7 +15,7 @@ y_axis = population["2040"]
 plt.figure(figsize=(12,6))
 plt.bar(x_axis, y_axis, color='green')
 plt.xlabel('Top 5 States')
-plt.ylabel('Populaion')
+plt.ylabel('Population')
 plt.title('Projected State Population by 2040')
 plt.show()
 
